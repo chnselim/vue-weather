@@ -1,4 +1,6 @@
 
+<img src="src/assets/screenshot.png"></img>
+
 ## Build Setup
 
 ``` bash
